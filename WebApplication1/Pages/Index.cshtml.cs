@@ -1,4 +1,4 @@
-﻿using System;
+ and github﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,7 +14,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            Msg += "hello from server";
+            Msg += "hello from server and GitHub";
         }
     }
 }
