@@ -9,9 +9,12 @@ namespace WebApplication1.Pages
 {
     public class IndexModel : PageModel
     {
+
+        public string Msg { get; set; }
+
         public void OnGet()
         {
-
+            Msg += "hello from server";
         }
     }
 }
