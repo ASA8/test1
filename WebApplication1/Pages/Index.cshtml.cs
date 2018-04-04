@@ -14,7 +14,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            Msg += "hello from server and GitHub";
+            Msg += "hello from server and GitHub and VS";
         }
     }
 }
